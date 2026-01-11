@@ -1,1 +1,1 @@
-trying push myself learning js 
+practice with frontend(js mostly) 
